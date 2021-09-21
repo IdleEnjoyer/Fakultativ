@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\FirstAssignment\FirstAssignment\bin\Debug\netcoreapp3.1\FirstAssignment.exe
+C:\Users\User\source\repos\FirstAssignment\FirstAssignment\bin\Debug\netcoreapp3.1\FirstAssignment.deps.json
+C:\Users\User\source\repos\FirstAssignment\FirstAssignment\bin\Debug\netcoreapp3.1\FirstAssignment.runtimeconfig.json
+C:\Users\User\source\repos\FirstAssignment\FirstAssignment\bin\Debug\netcoreapp3.1\FirstAssignment.runtimeconfig.dev.json
+C:\Users\User\source\repos\FirstAssignment\FirstAssignment\bin\Debug\netcoreapp3.1\FirstAssignment.dll
+C:\Users\User\source\repos\FirstAssignment\FirstAssignment\bin\Debug\netcoreapp3.1\FirstAssignment.pdb
+C:\Users\User\source\repos\FirstAssignment\FirstAssignment\obj\Debug\netcoreapp3.1\FirstAssignment.csprojAssemblyReference.cache
+C:\Users\User\source\repos\FirstAssignment\FirstAssignment\obj\Debug\netcoreapp3.1\FirstAssignment.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FirstAssignment\FirstAssignment\obj\Debug\netcoreapp3.1\FirstAssignment.AssemblyInfo.cs
+C:\Users\User\source\repos\FirstAssignment\FirstAssignment\obj\Debug\netcoreapp3.1\FirstAssignment.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FirstAssignment\FirstAssignment\obj\Debug\netcoreapp3.1\FirstAssignment.dll
+C:\Users\User\source\repos\FirstAssignment\FirstAssignment\obj\Debug\netcoreapp3.1\FirstAssignment.pdb
+C:\Users\User\source\repos\FirstAssignment\FirstAssignment\obj\Debug\netcoreapp3.1\FirstAssignment.genruntimeconfig.cache
