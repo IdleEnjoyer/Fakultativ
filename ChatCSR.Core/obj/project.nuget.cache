@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cECXKsn3ZOGFf+D6EJiFLj9KHBNB2mGZ8VHxct+0cz9LrYxccEg1ss9Q62IotMoJuBXPiJ2vKZXTCoOJKSN7OA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dima\\source\\repos\\ChatCSR\\ChatCSR.Core\\ChatCSR.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dima\\.nuget\\packages\\nunit3testadapter\\4.2.1\\nunit3testadapter.4.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
